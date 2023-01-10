@@ -44,7 +44,7 @@ Ansible returns the following output:
 
 In this output you can see:
 
-* The names that you give the play and each task.
+* The names that you give the play and each .
   You should always use descriptive names that make it easy to verify and troubleshoot playbooks.
 
 * The ``Gather Facts`` task runs implicitly.
